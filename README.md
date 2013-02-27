@@ -1,1 +1,1 @@
-Description goes here
+This is my first app powered by Django and Python. Ultimately, there will be three views: Home, Team and Player. Home will display several sports teams at UNC. Team will display the roster and record information for UNC Men's Basketball. Player will display individual profile pages for each player on the roster that will include a brief bio and season stats and highlights. 
